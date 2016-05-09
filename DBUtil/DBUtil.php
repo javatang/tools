@@ -31,7 +31,7 @@ class DBUtil {
 	protected static $query_callback = null;
 	
 	//默认加载的数据库配置文件
-	protected static $db_config = 'online';
+	protected static $db_config = 'config';
 	
 	/**
 	 * 设置回调
